@@ -4,3 +4,5 @@ out
 CTS-DN.iml
 
 target
+output
+settings.json
